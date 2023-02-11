@@ -1,0 +1,27 @@
+C:\Users\M-H Computer\Desktop\Example 17-12\Example 17-12\bin\Debug\Example 17-12.exe
+C:\Users\M-H Computer\Desktop\Example 17-12\Example 17-12\bin\Debug\Example 17-12.pdb
+C:\Users\M-H Computer\Desktop\Example 17-12\Example 17-12\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\M-H Computer\Desktop\Example 17-12\Example 17-12\obj\x86\Debug\Example_17_12.Form1.resources
+C:\Users\M-H Computer\Desktop\Example 17-12\Example 17-12\obj\x86\Debug\Example_17_12.Properties.Resources.resources
+C:\Users\M-H Computer\Desktop\Example 17-12\Example 17-12\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\M-H Computer\Desktop\Example 17-12\Example 17-12\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\M-H Computer\Desktop\Example 17-12\Example 17-12\obj\x86\Debug\Example 17-12.exe
+C:\Users\M-H Computer\Desktop\Example 17-12\Example 17-12\obj\x86\Debug\Example 17-12.pdb
+I:\کتابهای من\C#.NET\Example\Part17\Example 17-12\Example 17-12\obj\x86\Debug\Example 17-12.exe
+I:\کتابهای من\C#.NET\Example\Part17\Example 17-12\Example 17-12\obj\x86\Debug\Example 17-12.pdb
+I:\کتابهای من\C#.NET\Example\Part17\Example 17-12\Example 17-12\bin\Debug\Example 17-12.exe
+I:\کتابهای من\C#.NET\Example\Part17\Example 17-12\Example 17-12\bin\Debug\Example 17-12.pdb
+I:\کتابهای من\C#.NET\Example\Part17\Example 17-12\Example 17-12\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\کتابهای من\C#.NET\Example\Part17\Example 17-12\Example 17-12\obj\x86\Debug\Example_17_12.Form1.resources
+I:\کتابهای من\C#.NET\Example\Part17\Example 17-12\Example 17-12\obj\x86\Debug\Example_17_12.Properties.Resources.resources
+I:\کتابهای من\C#.NET\Example\Part17\Example 17-12\Example 17-12\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\کتابهای من\C#.NET\Example\Part17\Example 17-12\Example 17-12\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part17\Example 17-12\Example 17-12\bin\Debug\Example 17-12.exe
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part17\Example 17-12\Example 17-12\bin\Debug\Example 17-12.pdb
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part17\Example 17-12\Example 17-12\obj\x86\Debug\Example 17-12.csprojAssemblyReference.cache
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part17\Example 17-12\Example 17-12\obj\x86\Debug\Example_17_12.Form1.resources
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part17\Example 17-12\Example 17-12\obj\x86\Debug\Example_17_12.Properties.Resources.resources
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part17\Example 17-12\Example 17-12\obj\x86\Debug\Example 17-12.csproj.GenerateResource.cache
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part17\Example 17-12\Example 17-12\obj\x86\Debug\Example 17-12.csproj.CoreCompileInputs.cache
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part17\Example 17-12\Example 17-12\obj\x86\Debug\Example 17-12.exe
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part17\Example 17-12\Example 17-12\obj\x86\Debug\Example 17-12.pdb
